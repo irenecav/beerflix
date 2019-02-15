@@ -1,0 +1,17 @@
+@import "variables";
+@import "responsive";
+@import "reset";
+@import "commons";
+@import "navbar";
+@import "mainSection";
+@import "header";
+@import "filters";
+@import "footer";
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
